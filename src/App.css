@@ -1,0 +1,28 @@
+
+.main_container{
+  
+  height: 100vh;
+  background-image: url('https://th.bing.com/th/id/OIP.OMKKQh6c7nggkdLoWOQeCgHaEK?pid=ImgDet&w=207&h=116&c=7&dpr=1.5');
+  background-repeat: no-repeat;
+  background-size: 100vw 100vh;
+}
+.navbar{
+ 
+  width: 100vw;
+  height: 20vh;
+  display: flex;
+  flex-direction: row;
+  justify-content:space-between ;
+  /* padding-top: 50px; */
+}
+.net{
+  font-family: Arial;
+  font-size: 60px;
+
+  color: red;
+}
+.body_part{
+  padding-left: 200px;
+  padding-top: 30px;
+  color: white;
+}
